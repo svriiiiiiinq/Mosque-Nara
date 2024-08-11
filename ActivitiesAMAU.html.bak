@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>RAMADON</title>
+  <link rel="stylesheet" href="ActivitiesEid.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <body>
+ 	<section>
+	<header>
+		<a href="#" ><img src="img/logg.jpg" class="logo" width="100 px" height="auto"></a>
+<body>
+
+<div class="navbar">
+  <a href="ลองงงง.html">Home</a>
+  <a href="IInclude.html">Include</a>
+
+  <div class="subnav">
+    <button class="subnavbtn">Mosque <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="Klangg.html">มัสยิดกลางจังหวัดนราธิวาส</a>
+      <a href="Prajum.html">มัสยิดประจำจังหวัดนราธิวาส</a>
+      <a href="Monoro.html">มัสยิดอัลญามีอะฮฺ(มนร.)</a>
+	  <a href="Istiklal.html"> มัสยิดดารุลอิสติกลาล </a>
+	  <a href="Wusto.html">มัสยิดอัลวุสฏอ(บาตัสบารู)</a>
+	  <a href="Nuranee.html">มัสยิดนูรานี (บ้านค่าย)</a>
+	 
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Activities <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="ActivitiesEid.html">ละหมาด</a>
+      <a href="ActivitiesEitikaf.html">เอี๊ยะตีกาฟ</a>
+      <a href="ActivitiesQuran.html">สอนอัลกุรอาน</a>
+      <a href="ActivitiesAMAU.html">เมาลิด</a>
+	  <a href="ActivitiesNikah.html">พิธีนิกะห์</a>
+    </div>
+  </div> 
+  
+  <a href="#">Contact</a>
+</div>
+		
+	</header>
+	<div class="content">
+		<div class="textBox"><br><br><br>
+		&nbsp&nbsp<img src="img/muhammad.png" width="50 px" height="50 px"><h2><b>Unity Activity In</b>
+		<br> The <span>Mosque</span></h2><br>
+		<p><a href="#">กิจกรรมกวนอาชูรออ์</a></p><br>
+&nbsp&nbsp&nbspอาชูรออ์ จะจัดขึ้นในที่ 10 มุฮัรรอม(เดือนที่1ของปฏิทินอิสลาม) คำว่าอาชูรออ์แปลว่า 10 ในวันนั้นจะมีการทำอาหารชนิดหนึ่ง <br>เรียกว่า บูโบร์อาชูรอ(ขนมกวนวันที่สิบ)<br><br> 
+
+ &nbsp&nbsp&nbspวิธีการทำก็คือ กวนข้าว น้ำตาลมะพร้าว กล้วย ผลไม้อื่นๆ และวัตถุดิบต่างๆ ที่ทุกคนนำมา มาผสมกันในกะทะใหญ่ และช่วยกันกวนคนละไม้คนละมือ จนกระทั่งทุกอย่างเละจนกลายเป็นเนื้อเดียวกัน มีการปรุงรส ให้มีรสชาติที่อร่อยและกลมกล่อม
+
+<br><br>
+
+
+	<br><p><a href="#">กิจกรรมเมาลิดสัมพันธ์</a></p><br>
+&nbsp&nbsp&nbspเป็นกิจกรรมที่มีการจัดขึ้นเพื่อระลึกถึงท่านศาสดามูฮัมหมัด(ซ.ล.) จะจัดกันภายในเดือน รอบีอุลเอาวาล เดือนที่ 3 ของปฏิทินอิสลาม มีการอ่านประวัติของท่านศาสดา บรรยายเรื่องของท่านและมีการซอลาวัตถึงท่านอย่างพร้อมเพรียงกัน
+<br><br>
+
+	
+
+
+	<br><br>
+
+
+		
+	</div>
+	
+	<br><br><ul class="thumb">
+		<li><a href="ActivitiesEid.html"><img src="img/shalat.png" width="50 px" height="50 px"></a></li>
+		<li><a href="ลองงงง.html"><img src="img/dua-hands.png" width="50 px" height="50 px"></a></li>
+		<li><a href="ActivitiesQuran.html"><img src="img/koran.png" width="50 px" height="50 px"></a></li>
+		<li><a href="ActivitiesAMAU.html"><img src="img/muhammad.png" width="50 px" height="50 px"></a></li>
+		<li><a href="ActivitiesNikah.html"><img src="img/engagement.png" width="50 px" height="50 px"></a></li>
+
+
+	</ul>
+	
+	</section>  
+ </body>
+</html>
+
+
+

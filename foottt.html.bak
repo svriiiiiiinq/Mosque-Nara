@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>FOOTER</title>
+  <link rel="stylesheet" href="foottt.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+ <body>
+ 
+  <footer>
+	<ul class="footer-icons">
+		<li><a href="https://web.facebook.com/pw.an.378"><ion-icon name="logo-facebook"></ion-icon></a></li>
+		<li><a href=""><ion-icon name="logo-instagram"></ion-icon></a></li>
+		<li><a href="https://mail.google.com/mail/u/0/?ogbl#inbox"><ion-icon name="call-outline"></ion-icon></a></li>
+		<li><a href="https://www.youtube.com/"><ion-icon name="logo-youtube"></ion-icon></a></li>
+	</ul>
+
+
+	<ul class="footer-menu">
+		<li><a href="ÅÍ§§§§.html">Home</a></li>
+		<li><a href="">About</a></li>
+		<li><a href="">Service</a></li>
+		<li><a href="">Contact us</a></li>
+	</ul>
+
+	<div class="footer-copyright">
+		<p>Copyright @ 2002 coding Tonight.AA Rights Reserved</p>
+	</div>
+	</footer>
+</body>
+</html>

@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html{
+	height: 100%;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+body{
+	min-height: 100%;
+	display: flex;
+	flex-direction: column;
+	font-family: "Roboto", sana-serif;
+}
+
+h1{
+	margin-bottom: 25px;
+}
+
+p{
+	margin-bottom: 15px;
+}
+
+a{
+	text-decoration: none;
+}
+
+.content{
+	width: 1000%;
+	margin: 0 auto;
+	padding-top: 32px;
+}
+
+footer{
+	background: #006400;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 30px;
+	margin-top: auto;
+}
+
+footer li{
+	list-style: none;
+	display: inline-block;
+	margin: 10px;
+}
+
+.footer-icons a{
+	background: #ffffff;
+	color: #006400;
+	padding: 15px;
+	border-radius: 100px;
+	display: flex;
+	font-size: 25px;
+}
+
+.footer-icons a:hover{
+	color: #33cc00;
+}
+
+.footer-menu a{
+	color: #fff;
+}
+
+.footer-menu a:hover{
+	color: #33cc00;
+}
+
+.footer-copyright{
+	background-color: #fff;
+	color: #006400;
+	padding: 15px;
+	margin-top: 30px;
+}
+
+.footer-copyright p{
+	margin-bottom: 0px;
+}
+
+
+.content
+{
+	position: relative;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.content .textBox
+{
+	position: relative;
+	max-width: 600px;
+}
+.content .textBox h2
+{
+	color: #333;
+	font-size: 4em;
+	line-height: 1.4em;
+	font-weight: 500;
+}
+.content .textBox h2 span
+{
+	color: #017143;
+	font-size: 1.2em;
+	font-weight: 900;
+}
+.content .textBox p
+{
+	color: #333;
+}
+.content .textBox a
+{
+	display: inline-block;
+	margin-top: 20px;
+	padding: 8px 20px;
+	background: #017143;
+	color: #fff;
+	border-radius: 40px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+.content .imgBox
+{
+	width: 200px;
+	display: flex;
+	justify-content: flex-end;
+	padding-right: 50px;
+	margin-top: 50px;
+}
+.content .imgBox img
+{
+	max-width: 300px;

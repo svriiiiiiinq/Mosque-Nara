@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>NURANEE</title>
+  <link rel="stylesheet" href="Nuranee.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ <body>
+ 	<section>
+	<header>
+		<a href="#" ><img src="img/logg.jpg" class="logo" width="100 px" height="auto"></a>
+<body>
+
+<div class="navbar">
+  <a href="ลองงงง.html">Home</a>
+  <a href="Include.html">Include</a>
+
+  <div class="subnav">
+    <button class="subnavbtn">Mosque <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="Klangg.html">มัสยิดกลางจังหวัดนราธิวาส</a>
+      <a href="Prajum.html">มัสยิดประจำจังหวัดนราธิวาส</a>
+      <a href="Monoro.html">มัสยิดอัลญามีอะฮฺ(มนร.)</a>
+	  <a href="Istiklal.html"> มัสยิดดารุลอิสติกลาล </a>
+	  <a href="Wusto.html">มัสยิดอัลวุสฏอ(บาตัสบารู)</a>
+	  <a href="Nuranee.html">มัสยิดนูรานี (บ้านค่าย)</a>
+	 
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Activities <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="ActivitiesEid.html">ละหมาด</a>
+      <a href="ActivitiesEitikaf.html">เอี๊ยะตีกาฟ</a>
+      <a href="ActivitiesQuran.html">สอนอัลกุรอาน</a>
+      <a href="ActivitiesAMAU.html">เมาลิด</a>
+	  <a href="ActivitiesNikah.html">พิธีนิกะห์</a>
+    </div>
+  </div> 
+  
+  <a href="#">Contact</a>
+</div>
+		
+	</header>
+			<div class="content">
+		<div class="textBox"><br>
+		<h2>Masjid
+		<br><span>Nuranee</span></h2><br>
+		<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspมัสยิดนูรานี ต.กะลุวอเหนือ อ.เมือง จ.นราธิวาส<br>ปัจจุบันมีนายมะรอเซะ อาแว เป็นอีหม่ามประจำมัสยิด </p>
+		<a href="https://goo.gl/maps/ogQgdgYQ5UQJ8CFu5">เส้นทาง</a>
+	</div>
+	<div class="imgBox">
+		<a href="https://goo.gl/maps/ogQgdgYQ5UQJ8CFu5"><img src="img/nrn.png" width="450 px" height="320 px" class="starbuck" style="filter: blur(0.5px);" href="">
+	</div>
+	<br><br><ul class="thumb">
+		<li><a href="Klangg.html"><img src="img/klll.jpg" width="50 px" height="50 px"></a></li>
+		<li><a href="Prajum.html"><img src="img/p.png" width="50 px" height="50 px"></a></li>
+		<li><a href="Monoro.html"><img src="img/mnrr.jpg" width="50 px" height="50 px"></a></li>
+		<li><a href="Istiklal.html"><img src="img/yk.jpg" width="50 px" height="50 px"></a></li>
+		<li><a href="Wusto.html"><img src="img/bt.png" width="50 px" height="50 px"></a></li>
+		<li><a href="ลองงงง.html"><img src="img/nrn.png" width="50 px" height="50 px"></a></li>
+
+
+	</ul>
+	
+	</section>  
+ </body>
+</html>
